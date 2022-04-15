@@ -1,4 +1,4 @@
-# Prebuilt kernel files for Xiaomi 10 (umi)
+# Prebuilt kernel files for Xiaomi Mi 10
 
 From umi-user 12 SKQ1.211006.001/V13.0.4.0.SJBCNXM:user/release-keys
 
