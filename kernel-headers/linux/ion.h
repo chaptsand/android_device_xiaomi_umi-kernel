@@ -20,6 +20,7 @@
 #define _UAPI_LINUX_ION_H
 #include <linux/ioctl.h>
 #include <linux/types.h>
+typedef int ion_user_handle_t;
 enum ion_heap_type {
   ION_HEAP_TYPE_SYSTEM,
   ION_HEAP_TYPE_SYSTEM_CONTIG,
